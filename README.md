@@ -27,6 +27,7 @@
 
 - 🧏‍♀️ **VocalEyes** – A multi-modal assistive communication platform for the differently abled
 - ❌⭕ **Tic Tac Toe Game** – A beginner-friendly web game built using HTML, CSS, and JavaScript, focusing on DOM manipulation and game logic fundamentals
+- 🚀 **A Movie Recommendation System**: Built using Machine Learning and Streamlit, providing personalized movie suggestions with an interactive interface.
 
 
 ---
